@@ -27,8 +27,8 @@ Users should be able to:
 ### Screenshot
 
 ![mobile display](./mobile.png)
-![tablet display](./assets/tablet.png)
-![desktop display](./assets/desktop.png)
+![tablet display](./tablet.png)
+![desktop display](./desktop.png)
 
 ### Links
 
