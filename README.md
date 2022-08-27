@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [suite landing page]()
+- Live Site URL: [https://suite-landing-page-project.netlify.app]
 
 ## My process
 
